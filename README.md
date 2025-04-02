@@ -18,48 +18,48 @@ A comprehensive guide to mastering C programming from fundamentals to advanced c
 ## 📚 Table of Contents
 
 ### 🎯 Getting Started
-- [Course Overview](#course-overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
+- Course Overview
+- Prerequisites
+- Installation
+- Quick Start
 
 ### 📖 Course Structure
-- [1. Introduction to C](#1-introduction-to-c)
-  - [Hello World Program](#hello-world-program)
-  - [Basic Syntax](#basic-syntax)
-  - [Comments and Documentation](#comments-and-documentation)
-- [2. Variables and Data Types](#2-variables-and-data-types)
-  - [Basic Data Types](#basic-data-types)
-  - [Type Modifiers](#type-modifiers)
-  - [Constants](#constants)
-- [3. Control Structures](#3-control-structures)
-  - [Conditional Statements](#conditional-statements)
-  - [Loops](#loops)
-  - [Switch Cases](#switch-cases)
-- [4. Functions](#4-functions)
-  - [Function Basics](#function-basics)
-  - [Parameters and Return Values](#parameters-and-return-values)
-  - [Recursion](#recursion)
-- [5. Arrays and Strings](#5-arrays-and-strings)
-  - [One-Dimensional Arrays](#one-dimensional-arrays)
-  - [Multi-Dimensional Arrays](#multi-dimensional-arrays)
-  - [String Operations](#string-operations)
-- [6. Pointers and Memory](#6-pointers-and-memory)
-  - [Pointer Basics](#pointer-basics)
-  - [Dynamic Memory Allocation](#dynamic-memory-allocation)
-  - [Memory Management](#memory-management)
-- [7. Structures and Unions](#7-structures-and-unions)
-  - [Structure Basics](#structure-basics)
-  - [Nested Structures](#nested-structures)
-  - [Unions](#unions)
-- [8. File Operations](#8-file-operations)
-  - [File I/O Basics](#file-io-basics)
-  - [File Pointers](#file-pointers)
-  - [Error Handling](#error-handling)
-- [9. Advanced Topics](#9-advanced-topics)
-  - [Bitwise Operations](#bitwise-operations)
-  - [Multi-threading](#multi-threading)
-  - [Command Line Arguments](#command-line-arguments)
+- 1. Introduction to C
+  - Hello World Program
+  - Basic Syntax
+  - Comments and Documentation
+- 2. Variables and Data Types
+  - Basic Data Types
+  - Type Modifiers
+  - Constants
+- 3. Control Structures
+  - Conditional Statements
+  - Loops
+  - Switch Cases
+- 4. Functions
+  - Function Basics
+  - Parameters and Return Values
+  - Recursion
+- 5. Arrays and Strings
+  - One-Dimensional Arrays
+  - Multi-Dimensional Arrays
+  - String Operations
+- 6. Pointers and Memory
+  - Pointer Basics
+  - Dynamic Memory Allocation
+  - Memory Management
+- 7. Structures and Unions
+  - Structure Basics
+  - Nested Structures
+  - Unions
+- 8. File Operations
+  - File I/O Basics
+  - File Pointers
+  - Error Handling
+- 9. Advanced Topics
+  - Bitwise Operations
+  - Multi-threading
+  - Command Line Arguments
 
 ### 💻 Code Examples
 
@@ -160,5 +160,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mausam kar
 </div>
