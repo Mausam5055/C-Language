@@ -1,18 +1,15 @@
 // Q12. Calculate the area of a rectangle. Take length and width as input.
 #include <stdio.h>
+int main(){
+    float length,breadth,area;
+    printf("Enter The Length of rectangle:");
+    scanf("%f", &lenght);
 
-int main() {
-    float length, width, area;
+    printf("Enter The Breadth Of the Rectangle:");
+    sacnf("%f", &breadth);
 
-    printf("Enter length: ");
-    scanf("%f", &length);
+    area  = lenght*breadth;
+    printf("The area of the rectangle is: %f,\n", area);
 
-    printf("Enter width: ");
-    scanf("%f", &width);
 
-    area = length * width;
-
-    printf("Area of rectangle = %.2f\n", area);
-
-    return 0;
 }
